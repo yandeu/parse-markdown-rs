@@ -1,4 +1,4 @@
-# Struct Helpers
+# Parse Markdown Rust
 
 [![dependency status](https://deps.rs/repo/github/yandeu/parse-markdown-rs/status.svg)](https://deps.rs/repo/github/yandeu/parse-markdown-rs)
 [![CI](https://github.com/yandeu/parse-markdown-rs/actions/workflows/main.yml/badge.svg)](https://github.com/yandeu/parse-markdown-rs/actions/workflows/main.yml)
